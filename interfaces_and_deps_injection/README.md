@@ -1,6 +1,6 @@
 # Interfaces (abstractions) and wiring
 
-![class_diagram](./class_diagram.PNG)
+![class_diagram](assets/class_diagram.PNG)
 
 ## Run
 
